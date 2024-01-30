@@ -6,7 +6,7 @@ function Header() {
 
             <header>
                 <nav className='navbar navbar-dark bg-dark'>
-                    <a className='navbar-brand' href='' > Employee Management System </a>
+                    <a className='navbar-brand mx-5' href='' > Employee Management System </a>
                 </nav>
             </header>
 
